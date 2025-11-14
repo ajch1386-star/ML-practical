@@ -1,0 +1,11 @@
+--2025-11-13 21:53:05--  https://bootstrap.pypa.io/get-pip.py
+Resolving bootstrap.pypa.io (bootstrap.pypa.io)... 151.101.64.175, 151.101.192.175, 151.101.0.175, ...
+Connecting to bootstrap.pypa.io (bootstrap.pypa.io)|151.101.64.175|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2182415 (2.1M) [text/x-python]
+Saving to: ‘/tmp/get-pip.py’
+
+/tmp/get-pip.py      22%[===>                ] 488.56K   450KB/s               /tmp/get-pip.py      32%[=====>              ] 696.56K   525KB/s               /tmp/get-pip.py      43%[=======>            ] 936.56K   544KB/s               /tmp/get-pip.py      49%[========>           ]   1.03M   549KB/s               /tmp/get-pip.py      57%[==========>         ]   1.19M   572KB/s               /tmp/get-pip.py      63%[===========>        ]   1.32M   577KB/s               /tmp/get-pip.py      69%[============>       ]   1.46M   587KB/s               /tmp/get-pip.py      84%[===============>    ]   1.76M   649KB/s               /tmp/get-pip.py     100%[===================>]   2.08M   723KB/s    in 2.9s    
+
+2025-11-13 21:53:08 (723 KB/s) - ‘/tmp/get-pip.py’ saved [2182415/2182415]
+
