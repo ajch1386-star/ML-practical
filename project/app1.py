@@ -16,7 +16,7 @@ import pandas as pd
 from sklearn.impute import SimpleImputer
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
 
-model = joblib.load('project/mymodel(2).joblib')
+model = joblib.load('project/mymodel2.joblib')
 
 st.title('Will you survive if you were amoung the titanik passengares or not?')
 passengerid = st.text_input('Enter your passenger ID ','1053')
